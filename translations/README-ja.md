@@ -464,7 +464,7 @@ Anki 形式のフラッシュカード データベース: https://ankiweb.net/s
 - 背後にある数学がすべて理解できなくても心配する必要はありません。
 - Big-O の観点からアルゴリズムの複雑さを表現する方法を理解する必要があるだけです。
 - [x] [ハーバード CS50 - 漸近記法 (動画)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (一般的なクイック チュートリアル) (動画)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notations (一般的なクイック チュートリアル) (動画)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (およびオメガとシータ) - 最良の数学的説明 (動画)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [スキエナ](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [カリフォルニア大学バークレー校ビッグオー (動画)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
